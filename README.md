@@ -14,4 +14,4 @@ This project is a machine learning application designed to predict car prices ba
 
 The application is deployed on Render, a cloud platform that simplifies the deployment and hosting of web applications. You can access the live application at the following link:
 
-Deployment Link:  https://car-prediction-model-saurabh.onrender.com/predict
+Deployment Link:  [https://car-prediction-model-saurabh.onrender.com/predict](https://car-prediction-model-saurabh.onrender.com)
